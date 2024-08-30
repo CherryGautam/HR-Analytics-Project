@@ -7,6 +7,6 @@ The repository contains the project (code) and the dataset used for analysing em
 - Logistic Regression
 - Decision Tree Classifier
 - Random Forest Classifier
-* Support Vector Machine
-* Naive Bayes
-* K-Nearest Neighbors
+- Support Vector Machine
+- Naive Bayes
+- K-Nearest Neighbors
